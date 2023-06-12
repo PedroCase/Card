@@ -1,1 +1,1 @@
-"# Carta do Lapras muito maneira" 
+# "Carta do Lapras muito maneira" 
